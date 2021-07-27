@@ -1,1 +1,1 @@
-# Python-Projects
+This is a python project that asks user to Enter the no. of days and temperature and return the average temperature of the days along with the count of days having temperature above than average temperature.
